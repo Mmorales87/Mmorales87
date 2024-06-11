@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmorales87" alt="mmorales87" /></a> </p>
 
-- 🌱 I’m currently learning **angular, Moodle, PHP, python**
+- 🌱 I’m currently learning **Flutter, angular, Moodle, PHP, python**
 
 - 👨‍💻 All of my projects are available at [stayandcode.com](stayandcode.com)
 
