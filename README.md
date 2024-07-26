@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/marc-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-mg" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://stayandcode.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/8705987771530273516-512.png" alt="stayandcode" height="30" width="40" /></a>
+<a href="https://stayandcode.com/" target="blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/9311412861606062171-512.png" alt="stayandcode" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
