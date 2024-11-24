@@ -34,9 +34,9 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 ## Connect with me ☕ :
 <p align="center">
 	<a href="mailto:moralesgarciamarc@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://linkedin.com/in/marc-mg"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://linkedin.com/in/marc-mg"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Mmorales87"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://stayandcode.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="stayandcode"/></a>
+	<a href="https://stayandcode.com/"><img src="https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white" alt="stayandcode"/></a>
 </p>
 
 
@@ -64,7 +64,7 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 
 <h3 align="left">Mobile App</h3>
 <p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
