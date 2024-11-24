@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmorales87&label=Profile%20views&color=fea116&style=flat" alt="mmorales87" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmorales87" alt="mmorales87" /></a> </p>
+<br>
+
 
 - 🌱 I’m currently learning **Flutter, angular, Moodle, PHP, python**
 
@@ -16,10 +18,10 @@
 <!-- - 📄 Know about my experiences [https://stayandcode.com/src/assets/download/Marc_Morales_CV_eng.pdf](https://stayandcode.com/src/assets/download/Marc_Morales_CV_eng.pdf) -->
 
 ## Connect with me ☕ :
-<br>
 <p align="left">
 <a href="https://linkedin.com/in/marc-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-mg" height="30" width="40" /></a>
 </p>
+<br>
 
 
 <h2 align="left">Languages and Tools:</h2>
