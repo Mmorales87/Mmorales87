@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marc Morales</h1>
-![Aditya Vikram Singh Banner](https://media.licdn.com/dms/image/v2/D4D16AQGm96W-9XGgHA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725797107491?e=1738195200&v=beta&t=DEVMautKnjalWjfGCMQJwD4QU0M8CrwGF5atA6M2iPc)
 
-<h2 align="center">Frontend developer</h2>
+<h2 align="center">Developer</h2>
 <h3 align="center">I'm excited about what the future holds, and I'm dedicated to continuing my learning journey and making significant contributions to the world of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmorales87&label=Profile%20views&color=fea116&style=flat" alt="mmorales87" /> </p>
