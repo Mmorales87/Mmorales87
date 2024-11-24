@@ -1,9 +1,3 @@
-<h1 align="center">Hi 👋, I'm Marc Morales</h1>
-
-<h2 align="center">Developer</h2>
-<h3 align="center">I'm excited about what the future holds, and I'm dedicated to continuing my learning journey and making significant contributions to the world of technology.</h3>
-
-
 <h1 align="center">
 Hi, I'm Marc Morales!
 <a href="https://github.com/Mmorales87" target="_self">
