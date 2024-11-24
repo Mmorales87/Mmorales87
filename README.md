@@ -32,13 +32,10 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmorales87" alt="mmorales87" /></a> </p>
-<br>
 
 
 - 🌱 I’m currently learning **Flutter, angular, Moodle, PHP, python**
 
-- 👨‍💻 All of my projects are available at [stayandcode.com](stayandcode.com)
 
 - 📫 How to reach me **moralesgarciamarc@gmail.com**
 
@@ -49,7 +46,9 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 	<a href="mailto:moralesgarciamarc@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/marc-mg"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Mmorales87"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+	<br>
+	👨‍💻 All of my projects are available at [stayandcode.com](stayandcode.com)
+
 </p>
 
 
@@ -109,6 +108,11 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmorales87&show_icons=true&text_color=f0f0f0&bg_color=171717&locale=en&layout=compact" alt="mmorales87" /></p>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmorales87" alt="mmorales87" /></a> </p>
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmorales87&show_icons=true&locale=en" alt="mmorales87" /></p>
 
