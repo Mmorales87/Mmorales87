@@ -19,7 +19,6 @@
 <br>
 <p align="left">
 <a href="https://linkedin.com/in/marc-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-mg" height="30" width="40" /></a>
- [![@677815456](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:677815456)
 </p>
 
 
