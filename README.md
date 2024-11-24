@@ -6,7 +6,7 @@ Hi, I'm Marc Morales!
 </h1>
 <p align="center">
 	<a href="https://github.com/Mmorales87">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=mmorales87&label=Profile%20views&color=fea116&style=flat" alt="mmorales87" />
 	</a>
 </p>
 <br/>
@@ -32,11 +32,6 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 
 
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmorales87&label=Profile%20views&color=fea116&style=flat" alt="mmorales87" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmorales87" alt="mmorales87" /></a> </p>
 <br>
 
@@ -50,10 +45,13 @@ I am a passionate Full Stack Developer with a focus on building impactful applic
 <!-- - 📄 Know about my experiences [https://stayandcode.com/src/assets/download/Marc_Morales_CV_eng.pdf](https://stayandcode.com/src/assets/download/Marc_Morales_CV_eng.pdf) -->
 
 ## Connect with me ☕ :
-<p align="left">
-<a href="https://linkedin.com/in/marc-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-mg" height="30" width="40" /></a>
+<p align="center">
+	<a href="mailto:moralesgarciamarc@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://linkedin.com/in/marc-mg"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Mmorales87"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
-<br>
+
 
 
 <h2 align="left">Languages and Tools:</h2>
