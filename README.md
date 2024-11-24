@@ -80,3 +80,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmorales87&show_icons=true&locale=en" alt="mmorales87" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmorales87&theme=dark" alt="mmorales87" /></p>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Mmorales87}/count.svg" alt="Mmorales87 :: Visitor's Count" /></p>
