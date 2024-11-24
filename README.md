@@ -3,6 +3,44 @@
 <h2 align="center">Developer</h2>
 <h3 align="center">I'm excited about what the future holds, and I'm dedicated to continuing my learning journey and making significant contributions to the world of technology.</h3>
 
+
+<h1 align="center">
+Hi, I'm Marc Morales!
+<a href="https://github.com/Mmorales87" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/Mmorales87">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/Mmorales87">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Developer;Freelancer;Jodie's%20🐕%20Father;Flutter%20lover❤️;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
+<hr>
+
+<pre>
+I am a passionate Full Stack Developer with a focus on building impactful applications.
+📚 I hold a Higher Degree in Multiplatform Application Development.
+📝 I have a growing interest in software testing and Flutter development.
+🔭 Currently working on expanding the features of a CRM and other challenging Flutter projects.
+🌱 Learning advanced Flutter techniques.
+🌟 Main technologies: PHP, Flutter, JavaScript, Angular, Moodle, Python.
+🚀 Interested in developing digital solutions that enhance user experiences.
+🤝 Open to: collaborations or job opportunities in app development.</a>
+</pre>
+<hr>
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmorales87&label=Profile%20views&color=fea116&style=flat" alt="mmorales87" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmorales87" alt="mmorales87" /></a> </p>
